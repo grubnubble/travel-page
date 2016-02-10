@@ -15,10 +15,15 @@ y* {
 	src: url("lobster-font-1.4/Lobster 1.4/Lobster 1.4.otf");
 }
 
+.header {
+	margin: 0 5% 0 5%;
+	background-color: #CECECE;
+}
+
 .title {
 	text-align: center;
 	background-color: #B8DA90;
-	margin: 5%;
+	margin: 0% 0% 0% 0%;
 	padding-top: 30px;
 	padding-bottom: 30px;
 	color: white;
@@ -39,6 +44,7 @@ ul {
 	list-style: none;
 	font-size: 0px;
 	margin-left: -4.5%;
+	margin-top: 3%;
 }
 
 li {
@@ -58,7 +64,8 @@ li {
 	display: -webkit-flex;
     display: flex;
     text-align: center;
-    margin: 0 15% 0 15%;
+    margin: 0 5% 0 5%;
+    background-color: #CECECE;
 }
 
 img {
@@ -78,7 +85,7 @@ p {
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 200;
+	font-weight: 80;
 	line-height: 20px;
 }
 
